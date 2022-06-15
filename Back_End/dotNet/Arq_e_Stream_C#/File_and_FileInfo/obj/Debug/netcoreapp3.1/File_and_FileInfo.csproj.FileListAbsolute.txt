@@ -1,0 +1,4 @@
+C:\Workspace\Digital-Innovation-One\dotNet\Arq_e_Stream_C#\File_and_FileInfo\obj\Debug\netcoreapp3.1\File_and_FileInfo.csprojAssemblyReference.cache
+C:\Workspace\Digital-Innovation-One\dotNet\Arq_e_Stream_C#\File_and_FileInfo\obj\Debug\netcoreapp3.1\File_and_FileInfo.AssemblyInfoInputs.cache
+C:\Workspace\Digital-Innovation-One\dotNet\Arq_e_Stream_C#\File_and_FileInfo\obj\Debug\netcoreapp3.1\File_and_FileInfo.AssemblyInfo.cs
+C:\Workspace\Digital-Innovation-One\dotNet\Arq_e_Stream_C#\File_and_FileInfo\obj\Debug\netcoreapp3.1\File_and_FileInfo.csproj.CoreCompileInputs.cache

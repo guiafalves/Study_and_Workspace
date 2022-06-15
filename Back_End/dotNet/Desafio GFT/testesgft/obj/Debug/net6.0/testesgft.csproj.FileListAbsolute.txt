@@ -1,0 +1,15 @@
+C:\Workspace\Digital-Innovation-One\dotNet\Desafio GFT\testesgft\obj\Debug\net6.0\testesgft.csproj.AssemblyReference.cache
+C:\Workspace\Digital-Innovation-One\dotNet\Desafio GFT\testesgft\obj\Debug\net6.0\testesgft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Digital-Innovation-One\dotNet\Desafio GFT\testesgft\obj\Debug\net6.0\testesgft.AssemblyInfoInputs.cache
+C:\Workspace\Digital-Innovation-One\dotNet\Desafio GFT\testesgft\obj\Debug\net6.0\testesgft.AssemblyInfo.cs
+C:\Workspace\Digital-Innovation-One\dotNet\Desafio GFT\testesgft\obj\Debug\net6.0\testesgft.csproj.CoreCompileInputs.cache
+C:\Workspace\Digital-Innovation-One\dotNet\Desafio GFT\testesgft\bin\Debug\net6.0\testesgft.exe
+C:\Workspace\Digital-Innovation-One\dotNet\Desafio GFT\testesgft\bin\Debug\net6.0\testesgft.deps.json
+C:\Workspace\Digital-Innovation-One\dotNet\Desafio GFT\testesgft\bin\Debug\net6.0\testesgft.runtimeconfig.json
+C:\Workspace\Digital-Innovation-One\dotNet\Desafio GFT\testesgft\bin\Debug\net6.0\testesgft.dll
+C:\Workspace\Digital-Innovation-One\dotNet\Desafio GFT\testesgft\bin\Debug\net6.0\testesgft.pdb
+C:\Workspace\Digital-Innovation-One\dotNet\Desafio GFT\testesgft\obj\Debug\net6.0\testesgft.dll
+C:\Workspace\Digital-Innovation-One\dotNet\Desafio GFT\testesgft\obj\Debug\net6.0\refint\testesgft.dll
+C:\Workspace\Digital-Innovation-One\dotNet\Desafio GFT\testesgft\obj\Debug\net6.0\testesgft.pdb
+C:\Workspace\Digital-Innovation-One\dotNet\Desafio GFT\testesgft\obj\Debug\net6.0\testesgft.genruntimeconfig.cache
+C:\Workspace\Digital-Innovation-One\dotNet\Desafio GFT\testesgft\obj\Debug\net6.0\ref\testesgft.dll

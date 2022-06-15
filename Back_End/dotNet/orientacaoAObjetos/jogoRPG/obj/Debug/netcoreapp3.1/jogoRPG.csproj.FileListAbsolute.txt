@@ -1,0 +1,13 @@
+C:\Workspace\Digital-Innovation-One\orientacaoAObjetos\jogoRPG\bin\Debug\netcoreapp3.1\jogoRPG.exe
+C:\Workspace\Digital-Innovation-One\orientacaoAObjetos\jogoRPG\bin\Debug\netcoreapp3.1\jogoRPG.deps.json
+C:\Workspace\Digital-Innovation-One\orientacaoAObjetos\jogoRPG\bin\Debug\netcoreapp3.1\jogoRPG.runtimeconfig.json
+C:\Workspace\Digital-Innovation-One\orientacaoAObjetos\jogoRPG\bin\Debug\netcoreapp3.1\jogoRPG.runtimeconfig.dev.json
+C:\Workspace\Digital-Innovation-One\orientacaoAObjetos\jogoRPG\bin\Debug\netcoreapp3.1\jogoRPG.dll
+C:\Workspace\Digital-Innovation-One\orientacaoAObjetos\jogoRPG\bin\Debug\netcoreapp3.1\jogoRPG.pdb
+C:\Workspace\Digital-Innovation-One\orientacaoAObjetos\jogoRPG\obj\Debug\netcoreapp3.1\jogoRPG.csprojAssemblyReference.cache
+C:\Workspace\Digital-Innovation-One\orientacaoAObjetos\jogoRPG\obj\Debug\netcoreapp3.1\jogoRPG.AssemblyInfoInputs.cache
+C:\Workspace\Digital-Innovation-One\orientacaoAObjetos\jogoRPG\obj\Debug\netcoreapp3.1\jogoRPG.AssemblyInfo.cs
+C:\Workspace\Digital-Innovation-One\orientacaoAObjetos\jogoRPG\obj\Debug\netcoreapp3.1\jogoRPG.csproj.CoreCompileInputs.cache
+C:\Workspace\Digital-Innovation-One\orientacaoAObjetos\jogoRPG\obj\Debug\netcoreapp3.1\jogoRPG.dll
+C:\Workspace\Digital-Innovation-One\orientacaoAObjetos\jogoRPG\obj\Debug\netcoreapp3.1\jogoRPG.pdb
+C:\Workspace\Digital-Innovation-One\orientacaoAObjetos\jogoRPG\obj\Debug\netcoreapp3.1\jogoRPG.genruntimeconfig.cache
